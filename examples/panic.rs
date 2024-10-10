@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Changing the panicking behavior
 //!
 //! The easiest way to change the panicking behavior is to use a different [panic handler crate][0].

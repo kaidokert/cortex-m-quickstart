@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! How to use the heap and a dynamic memory allocator
 //!
 //! This example depends on the alloc-cortex-m crate so you'll have to add it to your Cargo.toml:

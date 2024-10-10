@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Sends "Hello, world!" through the ITM port 0
 //!
 //! ITM is much faster than semihosting. Like 4 orders of magnitude or so.

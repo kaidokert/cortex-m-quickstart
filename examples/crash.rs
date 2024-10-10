@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Debugging a crash (exception)
 //!
 //! Most crash conditions trigger a hard fault exception, whose handler is defined via

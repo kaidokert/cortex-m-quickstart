@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Overriding an exception handler
 //!
 //! You can override an exception handler using the [`#[exception]`][1] attribute.

@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Using a device crate
 //!
 //! Crates generated using [`svd2rust`] are referred to as device crates. These crates provide an

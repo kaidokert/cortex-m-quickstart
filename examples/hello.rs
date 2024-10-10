@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Prints "Hello, world!" on the host console using semihosting
 
 #![no_main]

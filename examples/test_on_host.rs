@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Conditionally compiling tests with std and our executable with no_std.
 //!
 //! Rust's built in unit testing framework requires the standard library,
